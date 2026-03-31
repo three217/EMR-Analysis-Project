@@ -1,0 +1,16 @@
+Full Dependency Package List
+
+	python==3.11.9
+	torch==2.4.1+cu118
+	torchvision==0.19.1+cu118
+	transformers==5.3.0
+	datasets>=2.14.0
+	accelerate>=0.20.0
+	bitsandbytes>=0.41.0
+	paddlepaddle-gpu==2.6.1.post117
+	paddleocr==2.7.3
+	streamlit==1.55.0
+	pandas==2.3.3
+	Pillow>=10.0.0
+	numpy>=1.24.0
+	peft==0.18.1
