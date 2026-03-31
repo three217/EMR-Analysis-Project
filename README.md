@@ -58,7 +58,6 @@ cd EMR-Analysis-Project
 
 \###2. 创建并激活虚拟环境
 
-```bash
 
 \# 创建虚拟环境
 
@@ -80,7 +79,6 @@ source emr\_env/bin/activate
 
 \###3. 安装依赖
 
-```bash
 
 pip install -r requirements.txt
 
@@ -98,7 +96,6 @@ pip install -r requirements.txt
 
 \###5. 一键启动系统
 
-```bash
 
 python run.py (默认访问地址：http://localhost:8501)
 
@@ -162,12 +159,8 @@ EMR-Analysis-Project/
 
 ├── final\_lora/                       # 论文训练完成的LoRA微调权重
 
-├── 测试病例集/                     # 脱敏测试病历样本，用于功能验证
-
-└── docs/                             # 补充文档
-
-&#x20;   └── Codebase Structure.txt   # 代码库结构说明
-
+└── 测试病例集/                     # 脱敏测试病历样本，用于功能验证
+ 
 
 
 \##开源协议
