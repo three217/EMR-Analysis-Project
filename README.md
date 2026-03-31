@@ -8,7 +8,7 @@
 
 \*\*英文标题\*\*：Development and Validation of a Lightweight Large Language Model-Based Agent for Automatic Electronic Medical Record Structurization: A Single-Center Real-World Study  
 
-\*\*中文标题\*\*：基于轻量级大型语言模型自动电子病历结构化代理的开发与验证：一项单中心真实世界研究  
+\*\*中文标题\*\*：基于轻量级大型语言模型自动电子病历结构化大模型的开发与验证：一项单中心真实世界研究  
 
 \*\*论文状态\*\*：Under review（SCI期刊投稿中）  
 
@@ -48,7 +48,6 @@
 
 \### 1. 克隆仓库
 
-```bash
 
 git clone https://github.com/three217/EMR-Analysis-Project.git
 
