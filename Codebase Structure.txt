@@ -1,9 +1,0 @@
-├── run.py                # 程序启动入口
-├── _main_2.0.py          # 主程序（Streamlit + 模型推理）
-├── requirements.txt      # 依赖清单
-├── README.md             # 项目说明
-├── LICENSE               # 开源协议
-├── .gitignore            # Git 忽略文件
-├── demo.txt              # 示例病历（测试用）
-├── 病历归档/             # 自动生成的结果目录
-└── lora_checkpoints/     # LoRA 训练输出目录
